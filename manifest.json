@@ -1,0 +1,10 @@
+{
+  "name": "RC Sample Scanner",
+  "short_name": "RC Scanner",
+  "description": "Offline RC and Photon sample barcode scanner",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0e1117",
+  "theme_color": "#0e1117",
+  "orientation": "portrait"
+}
